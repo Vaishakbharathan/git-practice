@@ -1,2 +1,2 @@
 hello from qa branch
-this line is added from qa branch
+this is added from master branch
